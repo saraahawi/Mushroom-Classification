@@ -19,7 +19,7 @@ Cap surface | The surface of the top part of the mushroom|fibrous=f,grooves=g,sc
 Cap color | The color of the top part of the mushroom |brown=n,buff=b,cinnamon=c,gray=g,green=r, pink=p,purple=u,red=e,white=w,yellow=y
 Bruises | Whether the mushroom is bruised or broken | bruises=t,no=f 
 Odor | How the mushroom smells | almond=a,anise=l,creosote=c,fishy=y,foul=f, musty=m,none=n,pungent=p,spicy=s 
-Gill attachment | How the thin, papery structures that hang vertically under the cap. Responsible for producing spores.|
+Gill attachment | How the thin, papery structures that hang vertically under the cap. Responsible for producing spores.| attached=a,descending=d,free=f,notched=n 
 Gill spacing | How closely spaced gills are | close=c,crowded=w,distant=d 
 Gill size | Whether gills are narrow or broad |  broad=b,narrow=n 
 Gill color | Color of gills |  black=k,brown=n,buff=b,chocolate=h,gray=g, green=r,orange=o,pink=p,purple=u,red=e, white=w,yellow=y
