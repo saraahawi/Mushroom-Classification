@@ -70,4 +70,5 @@ Habitat | Where mushroom populations are found | grasses=g,leaves=l,meadows=m,pa
 `matplotlib`
 `seaborn`
 `sklearn`
+`janitor`
 
