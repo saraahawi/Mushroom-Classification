@@ -38,7 +38,7 @@ Population | How scattered or grouped the mushrooms are | abundant=a,clustered=c
 Habitat | Where mushroom populations are found | grasses=g,leaves=l,meadows=m,paths=p,urban=u,waste=w,woods=d 
 
 
-
+![](https://cdn.shopify.com/s/files/1/0031/4756/3081/files/Anatomy3.jpg?v=1596220270)
 
 
 
